@@ -10,7 +10,7 @@ Prometheus is a minimal terminal text editor written in C. It operates directly 
 
 ---
 
-## Current Features
+## Current Features (In progress)
 
 - Raw terminal I/O with proper input handling
 - Basic text editing — insert, delete, navigate
